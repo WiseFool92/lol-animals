@@ -4,7 +4,7 @@
 
 ## Description
 
-_This creates a webpage that shows the user pictures of Shibe Inu's._
+_This creates a webpage that shows the user pictures of Shibe Inu's, Cats, & Birds._
 
 _This site is already linked to an index.html, styles.css, jQuery.js(3.4.1), scripts.js., main.js, jest, babel, lint, webpack, json, & gitignore_
 
